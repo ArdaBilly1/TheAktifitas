@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891299769372",
+    "firebase_url": "https://theaktifitas.firebaseio.com",
+    "project_id": "theaktifitas",
+    "storage_bucket": "theaktifitas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891299769372:android:9f6803d2539cc497",
+        "android_client_info": {
+          "package_name": "com.example.theaktifitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891299769372-uvfco70vuhp5a22118tqkl4jnt2s9ode.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theaktifitas",
+            "certificate_hash": "03da85c770348a4f97c7adf2c40f0f7cd128172c"
+          }
+        },
+        {
+          "client_id": "891299769372-ub546uvpm4d4c948scuteaf1goali0ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD807JQ4eGM1ckgLhGpa_vtmOg7RnUL9fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891299769372-ub546uvpm4d4c948scuteaf1goali0ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
